@@ -19,7 +19,7 @@
 
 - [**API de Tarefas (Fastify + JWT)**](https://github.com/ThalyssonFerreira/task-api)  
   API de gerenciamento de tarefas com autenticação JWT, documentação via Swagger e deploy na nuvem.  
-  🔗 [Demo Live](https://monthly-jeralee-thalysson4-ed98086e.koyeb.app/docs)
+  
 
 - [**Calculadora Acessível (React + TS)**](https://github.com/ThalyssonFerreira/Calculadora-ts)  
   Calculadora com acessibilidade, testes unitários (Vitest) e deploy na Vercel.  
