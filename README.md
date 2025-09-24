@@ -13,17 +13,17 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [**API CRUD (Fastify + PostgreSQL)**](https://github.com/ThalyssonFerreira/Api-Crud)  
+- [**API CRUD (Fastify + PostgreSQL)**](https://github.com/ThalyssonFerreira/Api-crud)  
   API REST com autenticação, Docker, Swagger e deploy na nuvem.  
-  🔗 [Demo Live](https://monthly-jeralee-thalysson4-ed98086e.koyeb.app/docs)
+  🔗 [Demo Live](https://api-crud-8m6y.onrender.com)
 
 - [**API de Tarefas (Fastify + JWT)**](https://github.com/ThalyssonFerreira/task-api)  
   API de gerenciamento de tarefas com autenticação JWT, documentação via Swagger e deploy na nuvem.  
   🔗 [Demo Live](https://monthly-jeralee-thalysson4-ed98086e.koyeb.app/docs)
 
-- [**Calculadora Acessível (React + TS)**](https://github.com/ThalyssonFerreira/Calculadora)  
+- [**Calculadora Acessível (React + TS)**](https://github.com/ThalyssonFerreira/Calculadora-ts)  
   Calculadora com acessibilidade, testes unitários (Vitest) e deploy na Vercel.  
-  🔗 [Demo Live](https://calculadora-thalysson.vercel.app)
+  🔗 [Demo Live](https://calculadora-ts-olive.vercel.app/)
 
 - [**Gerador de Senhas CLI (TS)**](https://github.com/ThalyssonFerreira/Generate-Password)  
   Ferramenta de linha de comando em TypeScript para gerar senhas seguras.
