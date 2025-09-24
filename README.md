@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Contato
-- 💼[LinkedIn](https://www.linkedin.com/in/thalysson-ferreira-carvalho/)
+- 💼[LinkedIn](https://www.linkedin.com/in/thalysson-ferreira-carvalho)
 
 - 📧 [Email](thalyssonf8800@gmail.com)  
 - 🐙 [GitHub](https://github.com/ThalyssonFerreira)
