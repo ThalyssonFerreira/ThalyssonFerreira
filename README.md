@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tecnologias
-- **Back-end:** Node.js, Fastify, Express, Docker, PostgreSQL, Prisma
+- **Back-end:** Node.js, Fastify, Express, Docker, PostgreSQL, Prisma, Python
 - **Front-end:** React,JavaScript, TypeScript, HTML5, CSS3
 - **Outros:** Git/GitHub, JWT, Swagger, n8n, Docker
 
