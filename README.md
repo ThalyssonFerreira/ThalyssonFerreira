@@ -21,7 +21,7 @@ Gosto de resolver problemas reais com código, criar automações e aprender nov
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [FinTrack – Sistema de Controle Financeiro](https://github.com/ThalyssonFerreira/FinTrack)
+### 🔹 [FinTrack – Sistema de Controle Financeiro](https://github.com/ThalyssonFerreira/Saasorc)
 **Stack:** Next.js · Prisma · PostgreSQL  
 🔗 **Demo:** https://saasorc.vercel.app/  
 
