@@ -1,51 +1,82 @@
-👋 Olá, eu sou o Thalysson Ferreira Carvalho
+# 🌟 Thalysson Ferreira Carvalho
 
-🎯 Desenvolvedor Júnior
-💻 Apaixonado por desenvolvimento web, APIs e automações
+### 👋 Olá! Seja bem-vindo ao meu perfil  
+Sou **Desenvolvedor Júnior**, apaixonado por construir aplicações modernas — de **APIs robustas** a **interfaces elegantes** em React e Next.js.  
+Gosto de resolver problemas reais com código, criar automações e aprender novas tecnologias todos os dias.
 
-🚀 Tecnologias
+---
 
-Back-end: Node.js, Fastify, Express, Docker, PostgreSQL, Prisma, Python
+## 🚀 Tecnologias & Habilidades
 
-Front-end: React, JavaScript, TypeScript, HTML5, CSS3, Next.js, TailwindCSS
+### 🔧 Back-end
+`Node.js` • `Fastify` • `Express` • `Docker` • `PostgreSQL` • `Prisma` • `Python`
 
-Outros: JWT, Swagger, n8n, Docker
+### 🎨 Front-end
+`React` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3` • `Next.js` • `TailwindCSS`
 
-📌 Projetos em Destaque
-🔹 FinTrack – Sistema de Controle Financeiro (Next.js + Prisma + PostgreSQL)
+### 🧰 Outros
+`JWT` • `Swagger` • `n8n` • `APIs REST` • `Docker`
 
-Demo livre: https://saasorc.vercel.app/
+---
 
-Dashboard financeiro completo com autenticação JWT, validação com Zod, categorias, gestão de transações, gráficos Recharts e PostgreSQL via Prisma.
+## 📌 Projetos em Destaque
 
-🔹 Scripts-AI – Criação de roteiros para vídeos curtos
+### 🔹 [FinTrack – Sistema de Controle Financeiro](https://github.com/ThalyssonFerreira/FinTrack)
+**Stack:** Next.js · Prisma · PostgreSQL  
+🔗 **Demo:** https://saasorc.vercel.app/  
 
-Demo: https://scripts-ai.vercel.app/
+Dashboard financeiro completo com:
+- Autenticação **JWT**
+- Validação com **Zod**
+- Categorias e gestão de transações
+- Gráficos com **Recharts**
+- Banco **PostgreSQL** via **Prisma**
 
-Ferramenta que gera roteiros para TikTok/Reels usando IA, com histórico, dois modos de criação e interface moderna.
+---
 
-🔹 API de Tarefas – Fastify + JWT
+### 🔹 [Scripts-AI – Criação de roteiros para vídeos curtos](https://github.com/ThalyssonFerreira/Scripts-AI)
+🔗 **Demo:** https://scripts-ai.vercel.app/  
 
-API com autenticação JWT, documentação por Swagger e arquitetura simples para estudo.
+Gera roteiros para **TikTok/Reels** usando IA:
+- Histórico de roteiros
+- Dois modos de criação
+- Interface moderna e responsiva
 
-🔹 API CRUD – Fastify + PostgreSQL + Docker
+---
 
-API REST completa com Docker, PostgreSQL, autenticação JWT e documentação Swagger.
+### 🔹 [API de Tarefas – Fastify + JWT](https://github.com/ThalyssonFerreira/Task-api)
 
-🔹 Gerador de Senhas CLI – TypeScript
+API com:
+- Autenticação **JWT**
+- Documentação com **Swagger**
+- Arquitetura simples e ideal para estudo
 
-Gerador de senhas seguro via CLI, desenvolvido em TypeScript.
+---
 
-🔹 Chat-Telecom – Bot para Telegram
+### 🔹 [API CRUD – Fastify + PostgreSQL + Docker](https://github.com/ThalyssonFerreira/Api-crud)
 
-Chatbot com Node.js integrado ao Telegram para automações e respostas rápidas.
+API REST completa com:
+- **Docker** para ambiente isolado
+- Banco **PostgreSQL**
+- Autenticação **JWT**
+- Documentação **Swagger**
 
-📫 Contato
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/thalysson-ferreira-carvalho
 
-📧 Email: thalyssonf8800@gmail.com
 
-🐙 GitHub: https://github.com/ThalyssonFerreira
+### 🔹 [Chat-Telecom – Bot para Telegram](https://github.com/ThalyssonFerreira/Chat-telecom)
 
-⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos open-source!
+Chatbot em **Node.js** integrado ao **Telegram**, ideal para automações e respostas rápidas.
+
+---
+
+## 📫 Contato
+
+- 💼 **LinkedIn:** [linkedin.com/in/thalysson-ferreira-carvalho](https://www.linkedin.com/in/thalysson-ferreira-carvalho)  
+- 📧 **Email:** [thalyssonf8800@gmail.com](mailto:thalyssonf8800@gmail.com)  
+- 🐙 **GitHub:** [github.com/ThalyssonFerreira](https://github.com/ThalyssonFerreira)
+
+---
+
+⭐ **Sempre aberto a aprender novas tecnologias e colaborar em projetos open-source!**
