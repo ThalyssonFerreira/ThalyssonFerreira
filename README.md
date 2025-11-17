@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Thalysson Ferreira Carvalho
 
 🎯 Desenvolvedor Júnior
-💻 Apaixonado por desenvolvimento web, APIs, automações e ferramentas inteligentes com IA.
+💻 Apaixonado por desenvolvimento web, APIs e automações
 
 🚀 Tecnologias
 
@@ -9,45 +9,48 @@ Back-end: Node.js, Fastify, Express, Docker, PostgreSQL, Prisma, Python
 
 Front-end: React, JavaScript, TypeScript, HTML5, CSS3, Next.js, TailwindCSS
 
-Outros: JWT, Zod, Swagger, n8n, IA (Gemini), Docker
+Outros: JWT, Swagger, n8n, Docker
 
 📌 Projetos em Destaque
-💰 FinTrack – Sistema de Controle Financeiro (Next.js + Prisma + PostgreSQL)
+🔹 FinTrack – Sistema de Controle Financeiro
 
-🔗 Demo livre: https://saasorc.vercel.app
+Demo livre: https://saasorc.vercel.app/
 
-🐙 GitHub: https://github.com/ThalyssonFerreira/fintrack
+GitHub: https://github.com/ThalyssonFerreira/fintrack
 
-Dashboard financeiro completo com autenticação JWT, validação com Zod, categorias personalizadas, gestão de transações, gráficos Recharts e integração com PostgreSQL via Prisma.
-Deploy do app na Vercel com banco de dados hospedado no Render.
+Dashboard financeiro completo com autenticação JWT, validação com Zod, categorias personalizadas, gestão de transações, gráficos Recharts e integração com PostgreSQL via Prisma. Deploy na Vercel com banco Render.
 
-🤖 Scripts-AI – Gerador Inteligente de Roteiros para Vídeos Curtos (IA)
+🔹 Scripts-AI – Criação de roteiros para vídeos curtos
 
-🔗 Demo: https://scripts-ai.vercel.app/
+Demo: https://scripts-ai.vercel.app/
 
-🐙 GitHub: https://github.com/ThalyssonFerreira/scripts-Ai
+GitHub: https://github.com/ThalyssonFerreira/scripts-Ai
 
-Ferramenta que usa IA (Gemini) para criar roteiros para vídeos curtos (TikTok, Reels, Shorts).
-Possui histórico, modo formulário ou texto livre, personalização completa de tom, estilo e tema dos roteiros.
+Ferramenta que cria roteiros automáticos para vídeos curtos (TikTok/Reels). Possui histórico, dois modos de criação (formulário ou texto livre), salvamento local e interface moderna.
 
-📘 API de Tarefas (Fastify + JWT)
+🔹 API de Tarefas (Fastify + JWT)
 
-🐙 GitHub: https://github.com/ThalyssonFerreira/task-api
+GitHub: https://github.com/ThalyssonFerreira/task-api
 
-API com autenticação JWT, documentação no Swagger e deploy em nuvem.
+API de gerenciamento de tarefas com autenticação JWT e documentação via Swagger.
 
-🔄 API CRUD (Fastify + PostgreSQL + Docker)
+🔹 API CRUD (Fastify + PostgreSQL)
 
-🐙 GitHub: https://github.com/ThalyssonFerreira/Api-crud
+GitHub: https://github.com/ThalyssonFerreira/Api-crud
 
-API REST completa com CRUD, autenticação, Docker, Swagger e deploy no Render.
+API REST completa com Docker, Swagger, PostgreSQL e autenticação.
 
+🔹 Gerador de Senhas CLI (TypeScript)
 
-💬 Chat-Telecom
+GitHub: https://github.com/ThalyssonFerreira/Generate-Password
 
-🐙 GitHub: https://github.com/ThalyssonFerreira/Chat-telecom
+Ferramenta de linha de comando para geração de senhas seguras.
 
-Chatbot feito com Node.js integrado ao Telegram e painel web, focado em automação e comunicação.
+🔹 Chat-Telecom
+
+GitHub: https://github.com/ThalyssonFerreira/Chat-telecom
+
+Chatbot integrado ao Telegram para automação em provedores de internet.
 
 📫 Contato
 
@@ -56,3 +59,5 @@ Chatbot feito com Node.js integrado ao Telegram e painel web, focado em automaç
 📧 Email: thalyssonf8800@gmail.com
 
 🐙 GitHub: https://github.com/ThalyssonFerreira
+
+⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos open-source!
