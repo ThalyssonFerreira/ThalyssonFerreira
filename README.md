@@ -1,8 +1,10 @@
-# 🌟 Thalysson Ferreira Carvalho
+## 🌟 Thalysson Ferreira Carvalho  
+## 👋 Olá! Bem-vindo ao meu perfil  
 
-### 👋 Olá! Seja bem-vindo ao meu perfil  
-Sou **Desenvolvedor Júnior**, apaixonado por construir aplicações modernas — de **APIs robustas** a **interfaces elegantes** em React e Next.js.  
-Gosto de resolver problemas reais com código, criar automações e aprender novas tecnologias todos os dias.
+Sou **Desenvolvedor Júnior em formação na área de software e TI**, com experiência prática em criação de **APIs escaláveis (Node.js + Prisma + PostgreSQL)** e desenvolvimento de interfaces com **React, Next.js e TypeScript**, sempre com foco em **organização, performance e usabilidade**.
+
+Tenho perfil **hands-on**: gosto de transformar problemas em soluções através de **automação de processos, modelagem de dados, lógica de programação e integração de sistemas**. Minha rotina envolve desenvolver projetos próprios, aplicar **Kanban** para gestão de tarefas e evoluir continuamente no ecossistema de tecnologia.
+
 
 ---
 
